@@ -1,1 +1,2 @@
 hello learning git and github 
+hello i am a text from branch1
